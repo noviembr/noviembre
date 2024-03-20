@@ -3,4 +3,7 @@
 
 ## abaut me
 
-escribir sobre nosotros
+escribir sobre nosotros...
+
+## contact me 
+hacer el cierre de la presentacion, invitando a contactar...
