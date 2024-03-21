@@ -9,6 +9,6 @@ escribir sobre nosotros...
 hacer el cierre de la presentacion, invitando a contactar...
 
 ## technologies
-- html
-- css
-- jv
+- sopa
+- desayuno
+- almuerzo
