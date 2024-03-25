@@ -8,7 +8,9 @@ escribir sobre nosotros...
 ## contact me 
 hacer el cierre de la presentacion, invitando a contactar...
 
-## celi
--shsdhhd
+## hobbies
+- dancing
+- cartar
+- practicar
 
 ## carmen
