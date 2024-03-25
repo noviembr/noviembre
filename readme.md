@@ -10,3 +10,4 @@ hacer el cierre de la presentacion, invitando a contactar...
 ## hobbies
 - dancing
 - cartar
+- practicar
