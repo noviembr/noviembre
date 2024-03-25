@@ -31,3 +31,4 @@ hacer el cierre de la presentacion, invitando a contactar...
 - practicar
 
 ## carmen
+- Las habilidades blandas con las que yo cuento son las mejores, paciencia, toma de decisiones acertivas, empatico.
