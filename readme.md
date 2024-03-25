@@ -12,3 +12,4 @@ hacer el cierre de la presentacion, invitando a contactar...
 - ingles
 - quechua
 - español
+- italiano
