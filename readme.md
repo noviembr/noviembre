@@ -25,3 +25,9 @@ hacer el cierre de la presentacion, invitando a contactar...
 - quechua
 - español
 - italiano
+## hobbies
+- dancing
+- cartar
+- practicar
+
+## carmen
