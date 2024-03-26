@@ -20,6 +20,10 @@ escribir sobre nosotros...
 ## contact me 
 hacer el cierre de la presentacion, invitando a contactar...
 
+
+## carmen
+- Las habilidades blandas con las que yo cuento son las mejores, paciencia, toma de decisiones acertivas, empatico.
+
 ## languajes
 - ingles
 - quechua
@@ -28,6 +32,7 @@ hacer el cierre de la presentacion, invitando a contactar...
 ## hobbies
 - dancing
 - cartar
+- practicar
 - practicar
 
 ## carmen
